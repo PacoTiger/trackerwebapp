@@ -1,10 +1,10 @@
-var app = angular.module('bandsapp',['ngRoute']);
+var app = angular.module('trackerReport',['ngRoute']);
 
 app.config(['$routeProvider',function($routeProvider) {
 	$routeProvider
 	.when("/",{
 		templateUrl:"views/cardTemplate.html",
-		controller: "bands"
+		controller: "first"
 	})
 	.when("/info/:name",{
 		templateUrl: "views/infoband.html",
@@ -15,10 +15,10 @@ app.config(['$routeProvider',function($routeProvider) {
 	})
 }]);
 
-app.controller('bands',['$scope','$http', function($scope,$http){
+app.controller('first',['$scope','$http', function($scope,$http){
 
-	$http.get("json/Bands_Json.json").success (function (data){
-		$scope.bandsjson = data;
+	$http.get("json/trackerdb.json").success (function (data){
+		$scope.trackerdbs = data;
 	});
 }]);
 

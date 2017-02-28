@@ -1,31 +1,31 @@
-<!-- esta vista entra en escena por route y activando el controller bands
- -->
-<section class="container" ng-controller="bands" >
-<form>
-  <div class="row">
-    <div class="col s4 offset-s2">
-      <input placeholder="Search by decade" type="text" ng-model="decadeFilter">
+<section class="container" ng-controller="first" >
+  <form>
+    <div class="row">
+      <div class="col s4 offset-s2">
+        <input placeholder="Search by day" type="text" ng-model="dayFilter">
+      </div>
+      <div class="col s4">
+        <input placeholder="Search by name" type="text" ng-model="spFilter">
+      </div>
     </div>
-    <div class="col s4">
-      <input placeholder="Search by name" type="text" ng-model="nameFilter">
+  </form>
+
+
+  <div class="card cardElement" ng-repeat="trackerdb in trackerdbs | filter: {day: dayFilter, sp: spFilter}">
+    <div class="card-image">
+      <img src="{{band.image}}">
+      <span class="card-title">{{trackerdb.sp | uppercase}}</span>
+    </div>
+    <div class="card-content">
+      <p><strong>Day:</strong> {{trackerdb.day}}</p>
+      <p><strong>Hour:</strong> {{trackerdb.hour}}</p>
+      <p><strong>Lead:</strong> {{trackerdb.lead}} 
+         <strong>Calls:</strong> {{trackerdb.call}}</p>
+    </div>
+    <div class="card-action">
+      <a href="#info/{{band.name}}">Some one more</a>
     </div>
   </div>
-</form>
-
-
-          <div class="card cardElement" ng-repeat="band in bandsjson | filter: {decade: decadeFilter, name: nameFilter}">
-            <div class="card-image">
-              <img src="{{band.image}}">
-              <span class="card-title">{{band.name | uppercase}}</span>
-            </div>
-            <div class="card-content">
-              <p><strong>Decade:</strong> {{band.decade}}</p>
-		      <p><strong>Popular Sons:</strong> {{band.songs[0]}}, {{band.songs[1]}}, {{band.songs[2]}}. </p>
-            </div>
-            <div class="card-action">
-              <a href="#info/{{band.name}}">Some one more</a>
-            </div>
-          </div>
         
 </section> 
 
