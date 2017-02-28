@@ -1,0 +1,33 @@
+<!-- esta vista entra en escena por route y activando el controller bands
+ -->
+<section class="container" ng-controller="bands" >
+<form>
+  <div class="row">
+    <div class="col s4 offset-s2">
+      <input placeholder="Search by decade" type="text" ng-model="decadeFilter">
+    </div>
+    <div class="col s4">
+      <input placeholder="Search by name" type="text" ng-model="nameFilter">
+    </div>
+  </div>
+</form>
+
+
+          <div class="card cardElement" ng-repeat="band in bandsjson | filter: {decade: decadeFilter, name: nameFilter}">
+            <div class="card-image">
+              <img src="{{band.image}}">
+              <span class="card-title">{{band.name | uppercase}}</span>
+            </div>
+            <div class="card-content">
+              <p><strong>Decade:</strong> {{band.decade}}</p>
+		      <p><strong>Popular Sons:</strong> {{band.songs[0]}}, {{band.songs[1]}}, {{band.songs[2]}}. </p>
+            </div>
+            <div class="card-action">
+              <a href="#info/{{band.name}}">Some one more</a>
+            </div>
+          </div>
+        
+</section> 
+
+
+      
