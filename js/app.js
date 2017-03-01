@@ -1,3 +1,4 @@
+(function(){
 var app = angular.module('trackerReport',['ngRoute']);
 
 app.config(['$routeProvider',function($routeProvider) {
@@ -51,3 +52,5 @@ app.directive('footer', function() {
      templateUrl : "views/filter.html"
     }
 });*/
+
+})();
