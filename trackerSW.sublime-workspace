@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 937,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/cardTemplate.html",
+			"settings":
+			{
+				"buffer_size": 990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/customHeader.html",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/footer.html",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/infoband.html",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 1133,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json/trackerdb.json",
+			"settings":
+			{
+				"buffer_size": 635658,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ss:html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 307.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/francisco.padilla/Documents/GitHub/trackerwebapp/views/filter.html",
+		"/C/Users/francisco.padilla/Documents/GitHub/email-ProjectLower/style-email.css",
+		"/C/Users/francisco.padilla/Documents/GitHub/comparator/js/angular-route.min.js",
+		"/C/Users/francisco.padilla/Documents/GitHub/comparator/node_modules/connect/node_modules/debug/.jshintrc",
+		"/C/Users/francisco.padilla/Desktop/example form/index.html",
+		"/C/Users/francisco.padilla/Documents/GitHub/id-spanish-letter-detector/css/mine.css",
+		"/C/Users/francisco.padilla/Documents/GitHub/id-spanish-letter-detector/js/functions.js",
+		"/C/Users/francisco.padilla/Documents/GitHub/id-spanish-letter-detector/index.html",
+		"/R/delete/Hourly Report asp.html",
+		"/R/delete/Hourly Report html.html",
+		"/C/Users/francisco.padilla/Desktop/id-spanish-letter-detector-master/id-spanish-letter-detector-master/index.html",
+		"/C/Users/francisco.padilla/Documents/GitHub/id-spanish-letter-detector/workplace.sublime-project",
+		"/C/Users/francisco.padilla/Documents/GitHub/id-spanish-letter-detector/workplace.sublime-workspace",
+		"/C/Users/francisco.padilla/Desktop/id-spanish-letter-detector-master/id-spanish-letter-detector-master/js/functions.js",
+		"/C/Users/francisco.padilla/Desktop/id-spanish-letter-detector-master/id-spanish-letter-detector-master/css/mine.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Final/V3/email.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Beta/V02/style-email.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/example/foundation-emails.css",
+		"/C/Users/francisco.padilla/Downloads/By Padys Christmas.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Final/V2/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Final/V2/style-email.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Final/V1/style-email.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Final/V1/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Final/V1/emailV1.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Beta/V02/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Final/V1/email.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Beta/V01/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/proyect lower green theme/Beta/V01/style-email.css",
+		"/C/Users/francisco.padilla/Downloads/foundation-emails/templates/sidebar-hero.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V04/style-email.css",
+		"/C/Users/francisco.padilla/Desktop/email.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V04/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V03/style-email.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V03/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V02/style-email.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V02/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V02/welcomeblueV02.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V01/welcomeBlueV01.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V01/style-email.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/welcome/blue theme/Beta/V01/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/eadirect blue/V02/style.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/eadirect blue/V02/indexv02.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/eadirect blue/indexv01.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/example/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/example/foundation.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/eadirect blue/style.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/prueba.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/sidebar-hero.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/eadirect blue/index.html",
+		"/C/Users/francisco.padilla/Downloads/foundation-emails/index.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/apilamientoInverso.html",
+		"/C/Users/francisco.padilla/Downloads/foundation-emails/css/foundation.css",
+		"/C/Users/francisco.padilla/Downloads/foundation-emails/css/foundation-emails.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/emailing/eadirect blue/sidebar-hero.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/eaemailCC.html",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/styles.css",
+		"/C/Users/francisco.padilla/Documents/Francisco Padilla/eaemail.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@media",
+			".last",
+			".first",
+			".notpaddingR",
+			"th.large-4.last",
+			".th.large-4.last",
+			".th.last-4.last",
+			".notpaddingR",
+			".last",
+			".barleft",
+			"#d5eeff",
+			"#d51921",
+			"#0072bc",
+			"#d51921",
+			"@media",
+			".callout-inner",
+			".secondary",
+			".sidebar",
+			"@media",
+			".hide",
+			".small-12",
+			".large-12",
+			".small-12",
+			"show",
+			"font-size",
+			"large-12",
+			".small-12",
+			".float-center",
+			".squareRed",
+			".callout-inner",
+			".float-center",
+			"callout-inner",
+			".callout-inner",
+			".primary",
+			".callout-inner",
+			".squareRed",
+			".callout",
+			".callout-inner",
+			"@media",
+			".callout-inner",
+			"@media",
+			".float-left",
+			".menu-item",
+			"quae",
+			".container",
+			".row",
+			"font-size",
+			"@media",
+			"#f3f3f",
+			"#f3f3f3",
+			"table.body",
+			".th.column",
+			".callout",
+			".h1",
+			".h3",
+			".h5",
+			".expander",
+			".callout-inner",
+			".float-center",
+			"font-size",
+			"#def0fc",
+			".callout",
+			"data-made-with-foundation",
+			".text",
+			"border"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/cardTemplate.html",
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								845,
+								845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/customHeader.html",
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/footer.html",
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							],
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/infoband.html",
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "js/app.js",
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1133,
+								1133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/stylesheet.css",
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "json/trackerdb.json",
+					"settings":
+					{
+						"buffer_size": 635658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".css",
+				"GitHub/email-ProjectLower/style-email.css"
+			],
+			[
+				".js",
+				"GitHub/comparator/node_modules/connect/node_modules/debug/.jshintrc"
+			],
+			[
+				"",
+				"GitHub/comparator/js/angular-route.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true
+}
